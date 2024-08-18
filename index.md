@@ -5,4 +5,6 @@
 ##### H5
 ###### H6
 
-Added different headings
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Added different headings and an image
